@@ -25,11 +25,11 @@
         </TemperatureThreshold>
         <TemperatureThreshold>
           <UpThreshold>76</UpThreshold>
-          <DownThreshold>72</DownThreshold>
+          <DownThreshold>71</DownThreshold>
           <FanSpeed>97.7653656</FanSpeed>
         </TemperatureThreshold>
         <TemperatureThreshold>
-          <UpThreshold>72</UpThreshold>
+          <UpThreshold>73</UpThreshold>
           <DownThreshold>67</DownThreshold>
           <FanSpeed>95.53072</FanSpeed>
         </TemperatureThreshold>
@@ -96,52 +96,52 @@
         <TemperatureThreshold>
           <UpThreshold>59</UpThreshold>
           <DownThreshold>54</DownThreshold>
-          <FanSpeed>70.94972</FanSpeed>
+          <FanSpeed>67.59776</FanSpeed>
         </TemperatureThreshold>
         <TemperatureThreshold>
           <UpThreshold>58</UpThreshold>
           <DownThreshold>54</DownThreshold>
-          <FanSpeed>68.1564255</FanSpeed>
+          <FanSpeed>63.6871529</FanSpeed>
         </TemperatureThreshold>
         <TemperatureThreshold>
           <UpThreshold>57</UpThreshold>
           <DownThreshold>53</DownThreshold>
-          <FanSpeed>65.36313</FanSpeed>
+          <FanSpeed>60.893856</FanSpeed>
         </TemperatureThreshold>
         <TemperatureThreshold>
           <UpThreshold>56</UpThreshold>
           <DownThreshold>53</DownThreshold>
-          <FanSpeed>62.56983</FanSpeed>
+          <FanSpeed>55.3072624</FanSpeed>
         </TemperatureThreshold>
         <TemperatureThreshold>
           <UpThreshold>55</UpThreshold>
           <DownThreshold>52</DownThreshold>
-          <FanSpeed>59.77654</FanSpeed>
+          <FanSpeed>50.27933</FanSpeed>
         </TemperatureThreshold>
         <TemperatureThreshold>
           <UpThreshold>54</UpThreshold>
           <DownThreshold>52</DownThreshold>
-          <FanSpeed>52.51397</FanSpeed>
+          <FanSpeed>45.2513962</FanSpeed>
         </TemperatureThreshold>
         <TemperatureThreshold>
           <UpThreshold>53</UpThreshold>
           <DownThreshold>51</DownThreshold>
-          <FanSpeed>47.4860344</FanSpeed>
+          <FanSpeed>40.223465</FanSpeed>
         </TemperatureThreshold>
         <TemperatureThreshold>
           <UpThreshold>52</UpThreshold>
           <DownThreshold>51</DownThreshold>
-          <FanSpeed>40.7821236</FanSpeed>
+          <FanSpeed>35.19553</FanSpeed>
         </TemperatureThreshold>
         <TemperatureThreshold>
           <UpThreshold>51</UpThreshold>
           <DownThreshold>50</DownThreshold>
-          <FanSpeed>35.19553</FanSpeed>
+          <FanSpeed>30.7262573</FanSpeed>
         </TemperatureThreshold>
         <TemperatureThreshold>
           <UpThreshold>50</UpThreshold>
           <DownThreshold>49</DownThreshold>
-          <FanSpeed>31.2849159</FanSpeed>
+          <FanSpeed>25.6983242</FanSpeed>
         </TemperatureThreshold>
         <TemperatureThreshold>
           <UpThreshold>49</UpThreshold>
